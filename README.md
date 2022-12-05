@@ -1,3 +1,5 @@
+## This is a fork of iconscout's unicons. It has updated dependencies and that's it.
+
 # Unicons
 
 1000+ Pixel-perfect vector icons and Iconfont for your next project. These icons are designed by [IconScout](https://iconscout.com).
